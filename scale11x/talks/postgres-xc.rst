@@ -1,6 +1,6 @@
-#####################
-Backup with PostreSQL
-#####################
+################################################################
+Introduction to Postgres-XC: A Write Scalable PostgreSQL Cluster
+################################################################
 
 :Speaker:
     Jim Mlodgenski

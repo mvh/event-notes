@@ -20,10 +20,10 @@ Conferences
 Credits
 =======
 
-Special thanks to `PyDanny <http://twitter.com/pydanny>`_ for the inspiration
-for this project. (See: `PyDanny's Event Notes
+Thanks to Jathan McCollum for letting me clone his setup!  And thanks
+to `PyDanny <http://twitter.com/pydanny>`_ for inspiring Jathan for
+his project. (See: `PyDanny's Event Notes
 <http://pydanny-event-notes.readthedocs.org/>`_)
-And thanks to Jathan McCollum for letting me clone his notes!
 
 Indices and tables
 ==================

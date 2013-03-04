@@ -22,6 +22,7 @@ Some interesting topics:
 + Async (background) tasks used often
 + AMD Seamicro used for 192 hosts in 45U rack
 + Self service functions
+
  - Monitoring
  - Log processing with LogStash and Kibana
  - Sentry used to centralize exception reporting (for Django stack)
