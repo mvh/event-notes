@@ -1,6 +1,6 @@
-================================================
-Builging Storage as a Sever with OpenStack Cloud
-================================================
+=================================================
+Building Storage as a Sevice with OpenStack Cloud
+=================================================
 
 :Speaker:
     Greg Elkinbard
